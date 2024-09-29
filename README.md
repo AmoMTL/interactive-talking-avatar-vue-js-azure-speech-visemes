@@ -14,9 +14,9 @@ Talking Avatar is an interactive, animated avatar that responds in real-time by 
 ### Prerequisites
 Before you begin, ensure you have the following:
 
-**Node.js** installed on your system
-**Azure Speech API keys**
-**OpenAI API key**
+- **Node.js** installed on your system
+- **Azure Speech API keys**
+- **OpenAI API key**
 
 #### 1. Clone the Repository
 ```bash
