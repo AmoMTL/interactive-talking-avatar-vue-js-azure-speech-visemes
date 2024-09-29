@@ -6,9 +6,9 @@ Talking Avatar is an interactive, animated avatar that responds in real-time by 
 
 ## ✨ Features
 
-**Real-time animated avatar**: Syncs avatar mouth movements with speech using viseme events.
-**Speech generation**: Powered by Azure Speech Text-to-Speech (TTS) service.
-**AI-driven responses**: Utilizes OpenAI for generating interactive and dynamic conversations.
+- **Real-time animated avatar**: Syncs avatar mouth movements with speech using viseme events.
+- **Speech generation**: Powered by Azure Speech Text-to-Speech (TTS) service.
+- **AI-driven responses**: Utilizes OpenAI for generating interactive and dynamic conversations.
 ## 🚀 Getting Started
 
 ### Prerequisites
