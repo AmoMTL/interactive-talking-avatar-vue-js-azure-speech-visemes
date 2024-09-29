@@ -1,0 +1,71 @@
+/* Remove all margin, padding, and border */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+  }
+  
+  /* Set a consistent font-size and line-height */
+  html {
+    font-size: 100%; /* Makes 1rem = 16px */
+    line-height: 1.6; /* Sets a comfortable line-height */
+  }
+  
+  /* Remove bullet points and other list item styles */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Reset anchor styles */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Make images scale properly in containers */
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  /* Set base styles for the body */
+  body {
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Basic reset for buttons */
+  button {
+    font: inherit;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  /* Table reset */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 0.5em;
+    text-align: left;
+  }
+  
+  /* Block elements reset */
+  h1, h2, h3, h4, h5, h6, p, ul, ol, figure, blockquote, dl, dd {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Remove fieldset borders */
+  fieldset {
+    border: 0;
+  }
+  

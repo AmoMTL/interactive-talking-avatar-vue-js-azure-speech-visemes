@@ -1,0 +1,15 @@
+
+.light-mode {
+    background-color: #d7d7d7;
+    color: #000000;
+}
+
+.dark-mode {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+#app {
+    transition: background-color 0.3s ease;
+    min-height: 100vh;
+}
